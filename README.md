@@ -24,8 +24,8 @@ This project focuses on developing a robust plant classification model using dee
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plant-classification.git
-   cd plant-classification
+   https://github.com/tvoitekh/visual-recognition-hw1.git
+   cd visual-recognition-hw1
    ```
 
 2. Create a virtual environment:
@@ -77,8 +77,8 @@ python ensemble_predict.py
 This will create submission .csv files for each of the models as well as the ensembling prediction. This way we can observe both individual and ensemble performance.
 
 ## Key Results
-- Best Single Model: ResnNext50 (Advanced) - 93% Accuracy
-- Ensemble Performance: 92% Accuracy
+- Best Single Model: ResnNext50 (Advanced) - 93% Competition Score
+- Ensemble Performance: 92% Competition Score
 
 ## Reproduction Notes
 - Random seed is set to 42 for reproducibility
